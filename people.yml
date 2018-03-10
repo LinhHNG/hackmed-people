@@ -1,4 +1,4 @@
-
+   
 - github: mattburman
   twitter: _mattburman
   shortname: Matt
@@ -20,7 +20,7 @@
   shortname: Darren Vong
   role: HackMed Participant
 
--github:LinhHNG
-twitter:halinh_ng
-shortname: Linh
-role: HackMed Participant
+- github:LinhHNG
+  twitter:halinh_ng
+  shortname: Linh
+  role: HackMed Participant
