@@ -1,3 +1,4 @@
+
 - github: mattburman
   twitter: _mattburman
   shortname: Matt
@@ -5,6 +6,7 @@
 
 - github: paulienuh
   twitter: paulienuh
+  
   shortname: Pauline
   role: Operations & Tech Lead
 
@@ -17,3 +19,8 @@
   twitter: mrdarrenv
   shortname: Darren Vong
   role: HackMed Participant
+
+-github:LinhHNG
+twitter:halinh_ng
+shortname: Linh
+role: HackMed Participant
